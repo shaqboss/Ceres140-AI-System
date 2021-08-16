@@ -28,8 +28,8 @@ async def Ceres140_How_Are_You(ctx):
 
 @bot.command()
 async def Ceres140_Greet(ctx):
-    await ctx.send("Hello Welcome Too Our Group Am Your Friendly Ai System Max"
-                   )
+    await ctx.send(
+        "Hello Welcome Too Our Group Am Your Friendly Ai System Ceres140")
 
 
 my_secret = os.environ['Token']
